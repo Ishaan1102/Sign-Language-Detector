@@ -3,6 +3,9 @@
 ## Project Overview
 The Sign Language Detector is a Python-based application designed to recognize and interpret sign language gestures from real-time video feeds. This project utilizes machine learning models and computer vision technologies to bridge communication gaps for the deaf and hard-of-hearing community.
 
+![Alt text for your gif](/assets/demo.gif)
+
+
 ## Features
 - Real-time sign language detection using a webcam.
 - Supports multiple sign language gestures.
