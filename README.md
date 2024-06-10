@@ -22,22 +22,28 @@ Follow these steps to set up the Sign Language Detector on your local machine:
 
 1. **Clone the Repository**
 
+```bash
 git clone https://github.com/Ishaan1102/Sign-Language-Detector.git
+```
 
 2. **Navigate to the Project Directory**
 
+```bash
 cd Sign-Language-Detector
+```
 
 3. **Install Required Libraries**
 
+```bash
 pip install -r requirements.txt
-
+```
 ## Usage
 
 To run the Sign Language Detector, execute the following command in the project directory:
 
+```bash
 python3 sign_language_detector.py
-
+```
 
 Ensure your webcam is connected and permitted to be used by applications. Follow the on-screen instructions to start detecting sign language gestures.
 
